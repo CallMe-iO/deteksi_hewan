@@ -2,7 +2,7 @@ import torch
 import cv2
 
 # Load model YOLOv5
-model = torch.hub.load('ultralytics/yolov5', 'custom', path='best.pt', force_reload=True)
+model = torch.hub.load('ultralytics/yolov5', 'custom', path='model/best.pt', force_reload=True)
 
 # Buka webcam
 cap = cv2.VideoCapture(1)
