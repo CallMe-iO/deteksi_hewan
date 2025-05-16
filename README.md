@@ -4,7 +4,8 @@ Program ini digunakan untuk mendeteksi objek secara real-time lewat webcam mengg
 
 ## Isi Folder
 
-- `model/best.pt` → Model hasil training YOLOv5.
+- `model/best.pt` → Model Terbaik Dari hasil training YOLOv5.
+- `model/last.pt` → Model Terakhir Dari hasil training YOLOv5.
 - `main.py` → Script utama untuk menjalankan deteksi dari webcam.
 - `.gitignore`, `.gitattributes`, `README.md` → File tambahan untuk keperluan git dan dokumentasi.
 
