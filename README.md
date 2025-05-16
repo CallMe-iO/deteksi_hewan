@@ -31,5 +31,5 @@ python main.py
 - Model `best.pt` ini adalah model hasil training sendiri, jadi hasil deteksinya tergantung data yang dipakai waktu training.
 
 ## Sumber
-
+datasets : https://www.kaggle.com/datasets/ankanghosh651/object-detection-wildlife-dataset-yolo-formathttps://www.kaggle.com/datasets/ankanghosh651/object-detection-wildlife-dataset-yolo-format
 Model menggunakan YOLOv5 dari Ultralytics: https://github.com/ultralytics/yolov5
