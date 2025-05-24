@@ -1,0 +1,8 @@
+KELOMPOK 3 YOLOV5
+
+CANVA - PPT
+https://www.canva.com/design/DAGnmfErLIg/Ju5m7XZVyeHHTOTHZkY2kw/edit?utm_content=DAGnmfErLIg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+GitHub Repositori deteksi_hewan (model)
+https://github.com/CallMe-iO/deteksi_hewan.git
